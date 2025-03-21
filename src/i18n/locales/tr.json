@@ -1,0 +1,70 @@
+{
+  "auth": {
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "username": "Kullanıcı Adı",
+    "home": "Ana Sayfa",
+    "loginTitle": "Hesabınıza giriş yapın",
+    "registerTitle": "Yeni hesap oluşturun",
+    "or": "Veya",
+    "createAccount": "yeni bir hesap oluşturun",
+    "loginToAccount": "mevcut hesabınıza giriş yapın"
+  },
+  "form": {
+    "errors": {
+      "usernameRequired": "Lütfen kullanıcı adınızı girin!",
+      "usernameLength": "Kullanıcı adı en az 3 karakter olmalıdır!",
+      "emailRequired": "Lütfen email adresinizi girin!",
+      "emailInvalid": "Geçerli bir email adresi girin!",
+      "passwordRequired": "Lütfen şifrenizi girin!",
+      "passwordLength": "Şifre en az 6 karakter olmalıdır!"
+    }
+  },
+  "profile": {
+    "title": "Profil",
+    "username": "Kullanıcı Adı",
+    "email": "E-posta",
+    "createdAt": "Kayıt Tarihi",
+    "lastLogin": "Son Giriş",
+    "uploadImage": "Profil Fotoğrafı Yükle",
+    "deleteImage": "Profil Fotoğrafını Sil",
+    "deleteImageConfirm": "Profil fotoğrafınızı silmek istediğinizden emin misiniz?",
+    "delete": "Sil",
+    "cancel": "İptal",
+    "loading": "Yükleniyor...",
+    "userNotFound": "Kullanıcı bulunamadı",
+    "noImageToDelete": "Silinecek profil fotoğrafı yok"
+  },
+  "chat": {
+    "searchPlaceholder": "Kullanıcı ara...",
+    "noMessages": "Henüz mesaj yok",
+    "you": "Siz",
+    "sendButton": "Gönder",
+    "sendingButton": "Gönderiliyor...",
+    "messagePlaceholder": "Mesajınızı yazın...",
+    "selectChat": "Sohbet etmek için bir kullanıcı seçin veya arama yapın",
+    "connected": "Bağlantı kuruldu",
+    "disconnected": "Bağlantı kesildi",
+    "newMessage": "Yeni mesaj alındı",
+    "loadError": "Chatler yüklenirken bir hata oluştu",
+    "searchError": "Kullanıcı arama hatası",
+    "startError": "Chat başlatılırken bir hata oluştu"
+  },
+  "errors": {
+    "fileSizeLimit": "Dosya boyutu 5MB'dan küçük olmalıdır",
+    "invalidImageType": "Lütfen geçerli bir resim dosyası seçin",
+    "uploadError": "Resim yüklenirken bir hata oluştu",
+    "deleteError": "Profil resmi silinirken bir hata oluştu",
+    "profileLoadError": "Profil bilgileri alınamadı",
+    "invalidCredentials": "Geçersiz email veya şifre",
+    "loginError": "Giriş yapılırken bir hata oluştu",
+    "registerError": "Kayıt olurken bir hata oluştu"
+  },
+  "success": {
+    "imageUploaded": "Profil resmi başarıyla güncellendi",
+    "imageDeleted": "Profil resmi başarıyla silindi"
+  }
+} 

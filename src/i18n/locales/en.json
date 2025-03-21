@@ -1,0 +1,70 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "home": "Home",
+    "loginTitle": "Sign in to your account",
+    "registerTitle": "Create a new account",
+    "or": "Or",
+    "createAccount": "create a new account",
+    "loginToAccount": "sign in to your existing account"
+  },
+  "form": {
+    "errors": {
+      "usernameRequired": "Please enter your username!",
+      "usernameLength": "Username must be at least 3 characters!",
+      "emailRequired": "Please enter your email!",
+      "emailInvalid": "Please enter a valid email!",
+      "passwordRequired": "Please enter your password!",
+      "passwordLength": "Password must be at least 6 characters!"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "username": "Username",
+    "email": "Email",
+    "createdAt": "Registration Date",
+    "lastLogin": "Last Login",
+    "uploadImage": "Upload Profile Photo",
+    "deleteImage": "Delete Profile Photo",
+    "deleteImageConfirm": "Are you sure you want to delete your profile photo?",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "userNotFound": "User not found",
+    "noImageToDelete": "No profile photo to delete"
+  },
+  "chat": {
+    "searchPlaceholder": "Search users...",
+    "noMessages": "No messages yet",
+    "you": "You",
+    "sendButton": "Send",
+    "sendingButton": "Sending...",
+    "messagePlaceholder": "Type your message...",
+    "selectChat": "Select a user to chat with or search for someone",
+    "connected": "Connection established",
+    "disconnected": "Connection lost",
+    "newMessage": "New message received",
+    "loadError": "Error loading chats",
+    "searchError": "Error searching users",
+    "startError": "Error starting chat"
+  },
+  "errors": {
+    "fileSizeLimit": "File size must be less than 5MB",
+    "invalidImageType": "Please select a valid image file",
+    "uploadError": "Error uploading image",
+    "deleteError": "Error deleting profile picture",
+    "profileLoadError": "Could not load profile information",
+    "invalidCredentials": "Invalid email or password",
+    "loginError": "Error occurred while signing in",
+    "registerError": "Error occurred while registering"
+  },
+  "success": {
+    "imageUploaded": "Profile picture updated successfully",
+    "imageDeleted": "Profile picture deleted successfully"
+  }
+} 
